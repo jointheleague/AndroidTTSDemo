@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hi Vic, This is some example text. Is this what you wanted the phone to do?</string>
+    <string name="sayit">Say It</string>
+    <string name="app_name">TTSDemo</string>
+
+</resources>
